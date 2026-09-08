@@ -1872,9 +1872,9 @@
       "official": false,
       "screenshot_sizes": ["lg"],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/varanu5/picture-widget/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "36bb7fcfd6fec18113632ad860526d07c101690ae7f30ced89f52c82aba2b5b0"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/varanu5/picture-widget/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "26e0e1450f9d9d427ab2a65f27103aa02a1c22c2ed7c04c237bb96cf1f8c8edf"
       },
       "source": "https://github.com/varanu5/picture-widget"
     }
