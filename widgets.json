@@ -1874,7 +1874,7 @@
       "release": {
         "version": "0.1.0",
         "tarball_url": "https://github.com/varanu5/picture-widget/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "4bb8dd75241db24d0787396cf41a762998cda007d321241894f9b0d67d42c6d0"
+        "sha256": "36bb7fcfd6fec18113632ad860526d07c101690ae7f30ced89f52c82aba2b5b0"
       },
       "source": "https://github.com/varanu5/picture-widget"
     }
